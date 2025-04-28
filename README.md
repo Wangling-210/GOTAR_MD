@@ -1,2 +1,3 @@
-# GOTAR_MD
-New Advance WhatsApp Bot
+# Senku
+This is my main bot code with it latest functions and commands
+# GREAT THANKS TO DEV SENKU 
