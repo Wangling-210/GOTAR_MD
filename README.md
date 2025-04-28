@@ -3,7 +3,7 @@
 
 > A WhatsApp Multi Device x Bug bot by Gotar Wrld.
 
-![Gotar MD Banner](path/to/your/banner.png) <!-- Remplace ceci par ton image -->
+![Gotar MD Banner](https://files.catbox.moe/3bwori.jpg) <!-- Remplace ceci par ton image -->
 
 <div align="center">
   
@@ -32,7 +32,7 @@
 
 - Un QR Code s'affiche :
   
-  ![QR Scan](https://path/to/qrcode-example.png) <!-- Exemple de QR code -->
+  ![ Scan]() <!-- Exemple de QR code -->
 
 - Scanne avec WhatsApp > Appareils connectés > Connecter un appareil
 
