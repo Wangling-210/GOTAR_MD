@@ -32,7 +32,7 @@
 
 - Un QR Code s'affiche :
   
-  ![ Scan]() <!-- Exemple de QR code -->
+  ![ Scan](https://raphael-web-f7gq.onrender.com) <!-- Exemple de QR code -->
 
 - Scanne avec WhatsApp > Appareils connectés > Connecter un appareil
 
