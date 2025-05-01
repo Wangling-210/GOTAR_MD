@@ -1,50 +1,12 @@
 <p align="center">
-  <img src="https://tenor.com/bsTYd.gif" height="80" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
 
-
-
-# GOTAR MD
-
-> A WhatsApp Multi Device x Bug bot by Gotar Wrld.
-
-![Gotar MD Banner](https://files.catbox.moe/3bwori.jpg)
-
-<div align="center">
   
-![Stars](https://img.shields.io/github/stars/GOTAR-MD/GOTAR_MD?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/GOTAR-MD/GOTAR_MD?style=for-the-badge)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=GOTAR-MD.GOTAR_MD&style=for-the-badge)
-![Contributors](https://img.shields.io/github/contributors/GOTAR-MD/GOTAR_MD?style=for-the-badge)
-
-</div>
-
----
-
-
-  <img src="https://readme-typing-svg.demolab.com?font=Transformers&size=80&pause=1000&color=0000FF&center=true&width=1000&height=150&lines=𝕷𝕬𝕯𝖄𝕭𝖀𝕲" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=1000&color=FF0000&center=true&width=1000&height=80&lines=By+Mr+Ntando+Ofc" alt="Typing SVG" />
-</p>
-
+# Gotar MD
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
-  <p align="center">
-<a href="https://github.com/GlobalTechInfo/followers"><img title="Followers" src="https://img.shields.io/github/followers/GlobalTechInfo?color=blue&style=flat-square"></a>
-
-<p align="center">
-  <a href="https://github.com/mrntandooofc/Ladybug-MD"><img title="Developer" src="https://img.shields.io/badge/Author-mrntandooofc-00FFFF.svg?style=for-the-badge&logo=github" />
-  </a>
-</
-<p align="center"><img src="https://profile-counter.glitch.me/{𝕷𝕬𝕯𝖄𝕭𝖀𝕲 𝕸𝕯 1.0.0}/count.svg" alt="efkidgamerdev :: Visitor's Count" /></p>
-
-
-
-
-# Gotar MD
 
 > A WhatsApp Multi Device x Bug bot by Gotar Wrld.
 
@@ -59,120 +21,10 @@
 
 </div>
 
----
-
-## 🚀 Fork l
-
-> Fork Repo to support us
-- Click button [**Fork**](https://github.com/GOTAR-MD/GOTAR_MD/fork)
-- Clone it ln your de device.
-
-  ```bash
-  git clone https://github.com/GOTAR-MD/GOTAR_MD.git
-  ```
-
----
-
-## 📲 Scan 
-
-- Un QR Code s'affiche :
-  
-  ![ Scan](https://raphael-web-f7gq.onrender.com) <!-- Exemple de QR code -->
-
-- Scanne avec WhatsApp > Appareils connectés > Connecter un appareil
-
-Et voilà, ton bot est prêt !
-
----
-
-## ⚙️ Installation rapide
-
-```bash
-
-```
-
-> **Note :** Put Creds.json contents inside session.js file
----
-
-## ✨ Bot Functions 
-
-- Multi-Device Bot WhatsApp 
-- Bug added to
-- Simple Deployment 
-- 100% Open Source
-- Command still to be added 
----
-
-## 👑 Developers
-
-| Nom            | Rôle                      | Contact            |
-|----------------|-----------------------------|--------------------|
-| **GOTAR WRLD**  | Fondateur / Dev principal   | [Whatsapp](https://wa.me/18297829802) |
-| **Collaborator Limule Solitarius** | Coding / Tests | [Whatsapp](https://wa.me/237686724137) |
-| **Collaborator Blood Angel** | Support / Tests | [Whatsapp](https://wa.me/242061146253) |
-| **Base bot Dev Senku** | Base of Gotar / Support | [Whatsapp](https://wa.me/237689360833) |
-
-    
-**
-
----
-
-## 📦 Require
-
-- Node.js v22 or +
-- WhatsApp actif account 
-- Discord account for panel account creation 
-
----
-
-## 🖼️ Images du Bot en action
-
-| Scan Session | Exemple Commande |
-|--------------|------------------|
-| ![QR Scan](https://path/to/qrcode-example.png) | ![Commandes](https://path/to/command-example.png) |
-
----
-
-## 🤝 Support & Community 
-
-- [Groupe WhatsApp Support](https://whatsapp.com/channel/0029VbAJA1THwXbA74a5pO1s)
-- [Canal Telegram Updates](https://t.me/limule_mods)
-
----
-
-## ⭐ Contribute
-
-Veux-tu améliorer Gotar MD ?  
-N'hésite pas à faire un **pull request** ou ouvrir une **issue** !
-
-- [Créer une Pull Request](https://github.com/GOTAR-MD/GOTAR_MD/pulls)
-- [Signaler un problème](https://github.com/GOTAR-MD/GOTAR_MD/issues)
-
----
-
-# ⭐ Forkez, starrez, et propulsez Gotar MD au sommet !
-
-# Gotar MD
-
-> A WhatsApp Multi Device x Bug bot by Gotar Wrld.
-
-![Gotar MD Banner](https://files.catbox.moe/3bwori.jpg) <!-- Remplace ceci par ton image -->
-
-<div align="center">
-  
-![Stars](https://img.shields.io/github/stars/GOTAR-MD/GOTAR_MD?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/GOTAR-MD/GOTAR_MD?style=for-the-badge)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=GOTAR-MD.GOTAR_MD&style=for-the-badge)
-![Contributors](https://img.shields.io/github/contributors/GOTAR-MD/GOTAR_MD?style=for-the-badge)
-
-</div>
-
----
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
 
----
 
 ## 🚀 Deployment Steps
 
@@ -182,7 +34,10 @@ First star & Fork the repo using the button below!
 
 [![FORK_REPOSITORY](https://img.shields.io/badge/FORK_REPOSITORY-FF5500?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](ttps://github.com/GOTAR-MD/GOTAR_MD/fork)
 
----
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
+
 
 ### 2. Get Session ID
 
