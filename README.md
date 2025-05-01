@@ -3,11 +3,9 @@
 </p>
 
   
-# Gotar MD
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-</p>
+# GOTAR_MD ["V1"]
 
+  
 > A WhatsApp Multi Device x Bug bot by Gotar Wrld.
 
 ![Gotar MD Banner](https://files.catbox.moe/3bwori.jpg) <!-- Remplace ceci par ton image -->
@@ -123,26 +121,21 @@ First star & Fork the repo using the button below!
 > Firstly Thank  you all for your support.
 
 > Special Thanks To
+
 - [GOTAR-MD (Lightmakerofc)](https://github.com/GOTAR-MD/GOTAR_MD)
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHdwdnhzcGg0enJ5OHpxZHB3NWRjN3pvODgwOXFpZXd0eTFzZmd4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11R5KYi6ZdP8Z2/giphy.gif" alt="Roll Out" width="60%"/>
-</p>
-
-
-
+* ![GOAT](https://files.catbox.moe/ny3dfc.jpg)
+* [Contact the contrib🏆](https://wa.me/263718728504)
 🔒 Final Note
 
 If you face any issues, report them on GitHub or in the WhatsApp community.
 
 
 
-> *𝖕𝖔𝖜𝖊𝖗𝖊𝖉 𝖇𝖞 GOTAR-MD*
 
-* ![GOAT](https://files.catbox.moe/ny3dfc.jpg)
-* [Contact the contrib🏆](https://wa.me/263718728504)
+
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
+
+> *𝖕𝖔𝖜𝖊𝖗𝖊𝖉 𝖇𝖞 GOTAR-MD*
