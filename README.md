@@ -3,7 +3,7 @@
 </p>
 
   
-# GOTAR_MD ["V1"]
+# GOTAR_MD 
 
   
 > A WhatsApp Multi Device x Bug bot by Gotar Wrld.
@@ -30,7 +30,7 @@
 
 First star & Fork the repo using the button below!
 
-[![FORK_REPOSITORY](https://img.shields.io/badge/FORK_REPOSITORY-FF5500?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](ttps://github.com/GOTAR-MD/GOTAR_MD/fork)
+[![FORK_REPOSITORY](https://img.shields.io/badge/FORK_REPOSITORY-FF5500?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/GOTAR-MD/GOTAR_MD/fork)
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
