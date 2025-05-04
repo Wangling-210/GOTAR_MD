@@ -9,7 +9,7 @@
       "prefix": ".",
       "reaction": "🥷🏽"
     },
-    "50941733049": {
+    "15165065685": {
       "sudoList": [],
       "tagAudioPath": "tag.mp3",
       "antilink": false,
@@ -18,19 +18,19 @@
       "prefix": ".",
       "reaction": "🌹"
     },
-    "50941733049": {
+    "15165065685": {
       "sudoList": [],
       "tagAudioPath": "tag.mp3",
       "antilink": false,
       "response": true,
       "autoreact": false,
-      "prefix": [],
+      "prefix": .
       "reaction": "🌹",
       "welcome": false,
       "record": true,
       "type": true
     },
-    "237686724137": {
+    "15165065685": {
       "sudoList": [],
       "tagAudioPath": "tag.mp3",
       "antilink": false,
